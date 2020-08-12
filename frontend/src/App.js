@@ -1,7 +1,8 @@
-import React from 'react';
+import React from "react";
+import EmailService from "./components/EmailService";
 
 function App() {
-  return <div>Implement me!</div>;
+  return <EmailService />;
 }
 
 export default App;
